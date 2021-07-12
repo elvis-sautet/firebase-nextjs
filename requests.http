@@ -1,0 +1,5 @@
+# get request
+GET http://localhost:3000/api/screams HTTP/1.1
+
+###
+GET http://localhost:3000/api/create-scream HTTP/1.1
